@@ -1,0 +1,5 @@
+# Replace the line below with your real custom domain (no https://, no www unless you want www.yourdomain).
+# Example: understory.co.za
+# Delete this comment block before deploying with a custom domain,
+# or delete this whole file if you're only using the default *.github.io address.
+YOURDOMAIN.co.za
