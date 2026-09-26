@@ -294,4 +294,5 @@ are the ones only you can fill in: your Formspree ID, contact details, the
 credentials paragraph, Caroline's headshot, the `og-cover.jpg` share image,
 and (for full SEO benefit) your real domain and a Google Business Profile.
 #   c a r o l i n e - n o r t o n  
+ #   c a r o l i n e - n o r t o n  
  
