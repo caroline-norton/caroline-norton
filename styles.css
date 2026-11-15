@@ -13,8 +13,8 @@
   --color-accent: #C17F3A;
   --color-accent-dark: #9C6429;
   --color-teal: #2F6B67;       /* secondary accent: passes AA for body text on paper (~5.5:1), unlike amber */
-  --color-teal-dark: #1F4A47;
-  --color-teal-deep: #142523;  /* near-ink: used for dark section backgrounds */
+  --color-teal-dark: #326E63;
+  --color-teal-deep: #1F4A47;  /* near-ink: used for dark section backgrounds */ 
   --color-teal-light: #C9E4E0; /* pale teal: photo highlight tone */
   --color-teal-tint: #E2EFED;  /* very pale teal wash: light section backgrounds */
   --color-line: #DAD5C9;
